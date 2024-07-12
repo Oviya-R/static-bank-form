@@ -1,0 +1,32 @@
+.tabelinput{
+    width: 187px;
+}
+.inputt{
+    margin-left: 10px;
+}
+.tableinputt{
+    width: 15px;
+}
+input{
+    width: 390px;
+    border: 1px solid;
+    height: 25px;
+}
+#bodybg{
+    background-color: green;
+    width: 580px;
+    color: white;
+    padding: 1px;
+}
+.spantag{
+    padding-left: 100px;
+}
+.bgcolor{
+    background-color: rgb(188, 216, 223);
+    width: 581px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.page{
+    padding-left: 180px;
+}
